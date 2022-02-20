@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Garlic Bread",
+      "cover": "https://images.app.goo.gl/feNNVTQVsyZH3MsH7",
+      "rating": 3.45,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Es Kepal Milo",
+      "cover": "https://images.app.goo.gl/oJV1ff1dG6GsyvEi6",
+      "rating": 3.00,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dalgona Coffe",
+      "cover": "https://images.app.goo.gl/szuZ2cFgYYXMDLCP7",
+      "rating": 3.00,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Croffle",
+      "cover": "https://images.app.goo.gl/uoAeMW2Emh2Nsmua7",
+      "rating": 4.45,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bittersweet By Najla",
+      "cover": "https://images.app.goo.gl/cWeL5suhfJzuq28n7",
+      "rating": 4.50,
+      "reviews": [
+      ]
+    }
+  ]
